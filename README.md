@@ -1,7 +1,7 @@
 OVERVIEW:
 
-This project starts by obtaining persistence data from 3D mesh clouds of several animals, each with several poses. 
-The persistence data is then used to train several machine learning classifiers (SVM and KNN) and then evaulated on accuracy.
+This project starts by obtaining 3D mesh clouds of several animals, each with several poses. 
+Then we extract persistence features from those pointclouds and use it to train several machine learning classifiers (SVM and KNN) and evaulated them on accuracy.
 The 3D pointclouds were obtained at https://people.csail.mit.edu/sumner/research/deftransfer/data.html#download 
 
 The general outline is as follows:
