@@ -1,4 +1,5 @@
 OVERVIEW:
+
 This project starts by obtaining persistence data from 3D mesh clouds of several animals, each with several poses. 
 The 3D pointclouds were obtained at https://people.csail.mit.edu/sumner/research/deftransfer/data.html#download 
 The persistence data is then used to train several machine learning classifiers (SVM and KNN) and then evaulated on accuracy.
@@ -16,5 +17,6 @@ The general outline is as follows:
 9. Train KNN / evaluate
 
 SETUP:
+
 The setup requirements are minmal. Just open the ipynb file and run the code. Each section of the project is further organized in the notebook.
    
