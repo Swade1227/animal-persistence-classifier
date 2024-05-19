@@ -18,7 +18,7 @@ The general outline is as follows:
 - Section 10. Train KNN / on images
 - Section 11. Compare and evaluate
 
-Each section can be individually acccesses/jumped too by using the table of contents feature in the top left menue of the notebook
+Each section can be individually acccessed / jumped too by using the table of contents feature in the top left menue of the notebook
 
 SETUP:
 
